@@ -1,5 +1,5 @@
 var noPrefix = [ "ai", "prefixv2", "liner", "sicbo", "gemini" ];
-var  prefix = "?";
+var  prefix = "~";
 const { getStreamFromURL: st } = global.utils,
  { get, post } = require("axios");
 async function onChat({ message: m, event: e, args: a, usersData: u }) {
@@ -25,7 +25,7 @@ module.exports = {
     author: "Raphael ilom",
     role: 0,
     shortDescription: "A second verison of bot",
-    category: "botv2"
+    category: "Ai"
   },
   onStart: () => {},
   onChat
