@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100017555747989",
-    "61553871285563",
-    "100090443419982",
-    "100017555747989"
+    "100081074084324",
+    "",
+    "",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "『 ? 』𝗠𝗔𝗧𝗘𝗢 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ( 𝙻𝚃𝙳 )",
-  "prefix": "?",
+  "nickNameBot": "paimon",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
